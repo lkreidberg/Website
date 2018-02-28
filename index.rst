@@ -6,16 +6,13 @@
 Laura Kreidberg
 ===============
 
-I am a National Science Foundation Graduate Research Fellow in the `Department of Astronomy and Astrophysics <http://astro.uchicago.edu/index.php>`_ at the `University of Chicago <http://uchicago.edu>`_ , where I work with `Jacob Bean <http://astro.uchicago.edu/~jbean>`_ on characterizing the atmospheres of extrasolar planets.
-
-Contents:
+I am a Junior Fellow at the `Harvard Society of Fellows <http://www.socfell.fas.harvard.edu>`_ . I study the atmospheres of extrasolar planets -- worlds beyond the Solar System. The goal of my work is to determine the origins and current nature of these planetary systems, and eventually search their atmospheres for signs of life.
 
 
 .. toctree::
    :maxdepth: 2
 
    cv
-   research
    code
    contact
 
